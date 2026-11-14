@@ -44,7 +44,7 @@ Webcam ─▶ letterbox 640×640 ─▶ YOLO11n (ONNX, di browser) ─▶ NMS �
 
 ```bash
 git clone https://github.com/bubibu12212/NoPhoneZone.git
-cd focusguard
+cd NoPhoneZone
 npm install
 ```
 
