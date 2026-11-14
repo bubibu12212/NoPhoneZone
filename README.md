@@ -43,7 +43,7 @@ Webcam ─▶ letterbox 640×640 ─▶ YOLO11n (ONNX, di browser) ─▶ NMS �
 **Butuh:** Node.js 20+ dan Python 3.9+ (Python hanya untuk export model, sekali saja)
 
 ```bash
-git clone https://github.com/<username>/focusguard.git
+git clone https://github.com/bubibu12212/NoPhoneZone.git
 cd focusguard
 npm install
 ```
